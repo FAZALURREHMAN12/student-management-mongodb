@@ -2,14 +2,6 @@
 
 A desktop-based student management application built with Python, Tkinter, and MongoDB. The system provides a graphical interface for managing student records with secure authentication, CRUD operations, and MongoDB database integration.
 
-## Preview
-
-> Add the screenshots you uploaded into a `screenshots` folder in the repo and keep these names:
->
-> - `login-screen.png`
-> - `main-menu.png`
-> - `add-student.png`
-> - `student-details.png`
 
 ### Login Screen
 
