@@ -13,19 +13,23 @@ A desktop-based student management application built with Python, Tkinter, and M
 
 ### Login Screen
 
-![Login Screen](screenshots/login-screen.png)
+<img width="1282" height="665" alt="Screenshot 2026-05-08 161309" src="https://github.com/user-attachments/assets/42b78f76-3f3f-4842-81fa-c2b096fc051e" />
+
 
 ### Main Dashboard
 
-![Main Menu](screenshots/main-menu.png)
+<img width="1276" height="661" alt="Screenshot 2026-05-08 161459" src="https://github.com/user-attachments/assets/51a56a59-d7af-4b92-83ba-c7aefe3b48d5" />
+
 
 ### Add Student Window
 
-![Add Student](screenshots/add-student.png)
+<img width="1275" height="674" alt="Screenshot 2026-05-08 161616" src="https://github.com/user-attachments/assets/b6efae41-2523-4cab-8beb-82e89df17d00" />
+
 
 ### Student Details View
 
-![Student Details](screenshots/student-details.png)
+<img width="1278" height="669" alt="Screenshot 2026-05-08 161721" src="https://github.com/user-attachments/assets/58d247ef-f9ab-4103-866b-7e936f8d4cc0" />
+
 
 ## Overview
 
